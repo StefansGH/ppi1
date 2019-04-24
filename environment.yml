@@ -5,5 +5,5 @@ dependencies:
   - numpy
   - requests
   - ipywidgets
-  - sklearn
+  - sklearn=0.20.3
   - pandas
